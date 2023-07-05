@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning React Native<br>🎯 Goals: React Native<br>🎲 Fun fact: I am a professional ice hockey player</p>
+<p align="left">📚 I'm currently learning React Native<br>🎯 Goals: React Native<br>🎲 Fun fact: I was a professional ice hockey player</p>
 
 ###
 
